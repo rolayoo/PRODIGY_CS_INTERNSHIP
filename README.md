@@ -1,5 +1,5 @@
 🛡️ Prodigy InfoTech: Cybersecurity Internship Portfolio
-Author: [Your Name]
+Author: Morolayo Jaiyeola 
 
 Role: Cybersecurity Intern
 
